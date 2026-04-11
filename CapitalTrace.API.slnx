@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CapitalTrace.API.Application/CapitalTrace.API.Application.csproj" Id="c901d8a3-863f-4595-8c6b-6404873e872e" />
+    <Project Path="src/CapitalTrace.API.Domain/CapitalTrace.API.Domain.csproj" Id="1e9ba184-195a-41ca-ac83-42780997dd7b" />
+    <Project Path="src/CapitalTrace.API.Infrastructure/CapitalTrace.API.Infrastructure.csproj" Id="1058d7fe-e524-430d-9398-caf2eeaf5c7d" />
+    <Project Path="src/CapitalTrace.API.WebAPI/CapitalTrace.API.WebAPI.csproj" Id="62f06823-34d2-423d-880a-3ef58c28f33e" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CapitalTrace.API.Application.Tests/CapitalTrace.API.Application.Tests.csproj" Id="474eec77-b10e-44b5-984d-5168b692a37f" />
+    <Project Path="tests/CapitalTrace.API.Domain.Tests/CapitalTrace.API.Domain.Tests.csproj" Id="5ae805f6-985e-4eb1-af64-ad92c9424eca" />
+  </Folder>
+</Solution>

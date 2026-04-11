@@ -1,0 +1,5 @@
+@CapitalTrace.API.WebAPI_HostAddress = http://localhost:8080
+GET {{CapitalTrace.API.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
