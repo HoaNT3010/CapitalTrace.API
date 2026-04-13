@@ -5,6 +5,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="CA.SharedComponents.Infrastructure" />
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\CapitalTrace.API.Application\CapitalTrace.API.Application.csproj" />
   </ItemGroup>
 </Project>
